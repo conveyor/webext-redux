@@ -19,6 +19,9 @@
     "type": "git",
     "url": "git+https://github.com/tshaddix/webext-redux.git"
   },
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  },
   "author": "Tyler Shaddix",
   "license": "MIT",
   "bugs": {
